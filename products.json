@@ -1,0 +1,521 @@
+[{
+  "_id": {
+    "$oid": "642d447ae6db19222d02ec86"
+  },
+  "product_title": "Headphones  (Sky Blue, On the Ear)",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 28000,
+  "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/01/AirPods.jpg",
+  "subcategory_id": "642d090c84d686b18af36dc1",
+  "quantity": 983,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680688250600"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683521133587"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642d451385c73d4be5670ee3"
+  },
+  "product_title": "APPLE Airpods   (Sky Blue, On the Ear)",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 28000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0E5j3bKG8sLqiNZcrIg4kTZPopTVuNR2onSG9x60bPXNmb1MOy3QgYYhU62p0DR6csA&usqp=CAU",
+  "subcategory_id": "642d090c84d686b18af36dc1",
+  "quantity": 969,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680688403551"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683521165305"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642d492f85c73d4be5670efe"
+  },
+  "product_title": "Men Solid Grey Sneakers",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1200,
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/0/tr:w-480,/f08b39eRSO2773_1.jpg?rnd=20200526195200",
+  "subcategory_id": "642d0afc3643e2bf523d62b1",
+  "quantity": 1991,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680689455933"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682341208512"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642d496785c73d4be5670f05"
+  },
+  "product_title": "Men Textured Grey Walking Shoes",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1700,
+  "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/0/tr:w-480,/50fdf51NYK_RSO2023A_1.jpg?rnd=20200526195200",
+  "subcategory_id": "642d0afc3643e2bf523d62b1",
+  "quantity": 988,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680689511897"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683205762887"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642fbe0d1a7838d9fd61a996"
+  },
+  "product_title": "Eletta Cappuccino Fully Automatic Coffee Machine",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 20000,
+  "image": "https://media.istockphoto.com/id/524908249/photo/coffee-blender-and-boiler-machine-in-kitchen-interior.jpg?s=1024x1024&w=is&k=20&c=QKDBkYxQ_Or6jLXV9csoQf5YnfOrbxt4pLYbKyexoR8=",
+  "subcategory_id": "642d14313643e2bf523d62da",
+  "quantity": 999,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680850445556"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682060357248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642fbf5f1a7838d9fd61a9b0"
+  },
+  "product_title": "Cappuccino Fully Automatic Coffee Machine",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 12000,
+  "image": "https://media.istockphoto.com/id/1432293025/photo/coffee-maker-and-red-mug-in-the-kitchen.jpg?s=612x612&w=0&k=20&c=2g7kO1aHuVVYILJcFBRrcOTMBQptnBMe3paXWX5WsT8=",
+  "subcategory_id": "642d14313643e2bf523d62da",
+  "quantity": 1000,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680850783533"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682059108026"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642fbf9d1a7838d9fd61a9bd"
+  },
+  "product_title": "Fully Automatic Coffee Machine",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 20000,
+  "image": "https://m.media-amazon.com/images/I/41olEBsW3kL._AC_.jpg",
+  "subcategory_id": "642d14313643e2bf523d62da",
+  "quantity": 3390,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680850845073"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682335946581"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff011e83ce0d0cb6b67cd"
+  },
+  "product_title": "Headphone product one",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1000,
+  "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxM[…]8MHxzZWFyY2h8Mnx8aGVhZHBob25lc3xlbnwwfHwwfHw%3D&w=1000&q=80",
+  "subcategory_id": "642d090c84d686b18af36dc1",
+  "quantity": 999,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680863249032"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682068157571"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff05be83ce0d0cb6b67d5"
+  },
+  "product_title": "Headphone product two",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 10000,
+  "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/01/AirPods.jpg",
+  "subcategory_id": "642d090c84d686b18af36dc1",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680863323931"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680863323931"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff16fe83ce0d0cb6b67e9"
+  },
+  "product_title": "Cloth one",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1000,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQB28h5udpxcZSUPLSkjGoxJgjWlae8YzTGi6ow-LuAT9bc8ofse6myJnWQgshQLcWvUVS4ZN1q8UUX3nlkuIEAdnwBiEPI6ixKith1fyNAweoQhOUP98xBOw&usqp=CAE",
+  "subcategory_id": "642d0af43643e2bf523d62ad",
+  "quantity": 38,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680863599357"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682068157572"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff1aee83ce0d0cb6b67f0"
+  },
+  "product_title": "Cloth two",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1000,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmZ_YA86xz-VaTrz2xFODaBXme5UyInGGdPQT1L4RG8sdJrn9Wd1bD6uJb4V9z8AXufR0aQfPuGuBzsjJaGHxkzlUVDbc8oriatGUhsig&usqp=CAE",
+  "subcategory_id": "642d0af43643e2bf523d62ad",
+  "quantity": 38,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680863662405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682068157576"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff2e3e83ce0d0cb6b6804"
+  },
+  "product_title": "Mobile one",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1000,
+  "image": "https://www.oppo.com/content/dam/oppo/product-asset-library/a/a55-global/a55/v1/assets/1920/style-big-1920-3.jpg",
+  "subcategory_id": "642d4ef7ae696241cf44bfba",
+  "quantity": 39,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680863971582"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682335089340"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff553c9d88743cf9502f6"
+  },
+  "product_title": "Painting one",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 4000,
+  "image": "https://cdn.shopify.com/s/files/1/0500/0711/3892/products/vibecrafts-colorful-wall-painting-of-lord-radha-krishna-PTVCH_2247_1.jpg?v=1640771400",
+  "subcategory_id": "642d11f53643e2bf523d62ce",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680864595319"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680864595319"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff572c9d88743cf9502fa"
+  },
+  "product_title": "Painting two",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 4000,
+  "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61zrd-oI5mL._SL1280_.jpg",
+  "subcategory_id": "642d11f53643e2bf523d62ce",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680864626009"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680864626009"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff5a8c9d88743cf9502ff"
+  },
+  "product_title": "clock one",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 23000,
+  "image": "https://honeydewoverseas.com/image/cache/catalog/NEW%20CLOCKS/Clock%201/WhatsApp%20Image%202021-07-16%20at%2012.24.49-1000x1000.jpeg",
+  "subcategory_id": "642d11fb3643e2bf523d62d1",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680864680455"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680864680455"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff5e4c9d88743cf950305"
+  },
+  "product_title": "clock two",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 3000,
+  "image": "https://cdn11.bigcommerce.com/s-a1aqxosd6a/images/stencil/1280x1280/products/19560/50619/A8010110__26936__38725__75724.1602721278.jpg",
+  "subcategory_id": "642d11fb3643e2bf523d62d1",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680864740121"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680864740121"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff640c9d88743cf95030a"
+  },
+  "product_title": "Microwave one",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 3000,
+  "image": "https://m.economictimes.com/thumb/msid-92888091,width-1200,height-602,resizemode-4,imgsize-47640/widget-.jpg",
+  "subcategory_id": "642d14233643e2bf523d62d7",
+  "quantity": 39,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680864832325"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682059290102"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff66bc9d88743cf950313"
+  },
+  "product_title": "Microwave two",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 30000,
+  "image": "https://m.economictimes.com/thumb/msid-95457328,width-1600,height-860,resizemode-4,imgsize-78912/mmm-.jpg",
+  "subcategory_id": "642d14233643e2bf523d62d7",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680864875912"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680864875912"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff714c9d88743cf950324"
+  },
+  "product_title": "cosmatic product one",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 30000,
+  "image": "https://1.bp.blogspot.com/-TbegmnUNPFQ/XitGSAC6LzI/AAAAAAAAWbk/x_TZk41z75koTURzJZKQjvwLm58LjzuOACLcBGAsYHQ/s1600/urban-color-blush4.JPG",
+  "subcategory_id": "642d0b693643e2bf523d62c1",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680865044599"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1680865044599"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "642ff732c9d88743cf95032c"
+  },
+  "product_title": "cosmatic product two",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 30000,
+  "image": "https://images.pexels.com/photos/2732197/pexels-photo-2732197.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "subcategory_id": "642d0b693643e2bf523d62c1",
+  "quantity": 39,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1680865074756"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682059290102"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "64539eefc3578eaa40998dca"
+  },
+  "product_title": "I_Phone_13",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 10000,
+  "image": "https://media.croma.com/image/upload/v1664009491/Croma%20Assets/Communication/Mobiles/Images/243460_0_n90peu.png",
+  "subcategory_id": "642d4ef7ae696241cf44bfba",
+  "quantity": 100,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683201775374"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683201775374"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "64539f8dc3578eaa40998dd3"
+  },
+  "product_title": "NIKE",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1050,
+  "image": "https://static-01.daraz.com.bd/p/ec1118c4251ffc10025065289e3a6aa8.jpg",
+  "subcategory_id": "642d0afc3643e2bf523d62b1",
+  "quantity": 100,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683201933179"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683201933179"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6453aceec3578eaa40998ec9"
+  },
+  "product_title": "Woodland",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1000,
+  "image": "https://image.woodlandworldwide.com/ppublic/FGC0T8018691A/NAVY/FGC0T8018691A_030_0.jpg",
+  "subcategory_id": "642d0afc3643e2bf523d62b1",
+  "quantity": 100,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683205358385"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683205358385"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "64549c87a4f613e4160b3575"
+  },
+  "product_title": "Nothing_Phone",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 5500,
+  "image": "https://www.expertreviews.co.uk/sites/expertreviews/files/2022/07/nothing-phone-1-review-13.jpg",
+  "subcategory_id": "642d4ef7ae696241cf44bfba",
+  "quantity": 290,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683266695750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683266695750"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6454acf6be17a732e84d9deb"
+  },
+  "product_title": "LG Refrigerator",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 1900,
+  "image": "https://m.media-amazon.com/images/I/81EtiF0kHbL._SL1500_.jpg",
+  "subcategory_id": "642d0b243643e2bf523d62b7",
+  "quantity": 39,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683270902931"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683279473301"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6454e243151aaa440e93ec14"
+  },
+  "product_title": "A.C",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+  "price": 10000,
+  "image": "https://www.lg.com/in/images/split-ac/md07565732/gallery/RS-Q14ENZE-D-03.jpg",
+  "subcategory_id": "642d0b313643e2bf523d62ba",
+  "quantity": 150,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683284547659"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683284547659"
+    }
+  }
+}]
